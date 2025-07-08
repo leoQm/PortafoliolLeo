@@ -254,3 +254,8 @@ h1{
     margin-bottom: 70px;
     
 }
+.img-logo{
+    width: 150px !important;
+    margin-left: -13px;
+    height: 100px !important;
+}
